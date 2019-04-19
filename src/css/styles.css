@@ -1,0 +1,27 @@
+#partOne {
+    display: flex;
+    width: 25%;
+    border: 5px solid maroon;
+    justify-content: space-between;
+ }
+ 
+#partTwo {
+    display: flex;
+    width: 25%;
+    border: 5px solid gray;
+    justify-content: space-between;
+ }
+ 
+
+#container {
+    display: flex;
+    min-height: 1500px;
+  }
+  
+#audrey {
+    background-color: maroon;
+    color: lightgrey;
+    min-height: 100px;
+    width: 50px;
+    position: fixed;
+  }
